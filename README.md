@@ -1,6 +1,6 @@
 # Classroom
 
-Diverse didactic or pedagogical material used for classes and presentations.
+Diverse didactic or pedagogical stuff used for classes and presentations.
 
 ## Getting started
 
